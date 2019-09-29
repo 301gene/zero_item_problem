@@ -1,0 +1,11 @@
+<style> 
+	.item-0, .item- { 
+		visibility: hidden; 
+		height: 0px;   
+		padding: 0;   
+		margin: 0; 
+	} 
+	.item-0 > *, .item- > * { 
+    	margin: 0; 
+    } 
+</style>
